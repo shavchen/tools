@@ -2,4 +2,6 @@
 小工具合集
 
 ## repeater
-wget 
+git clone https://github.com/shavchen/tools.git
+[tools.png](tools.png)
+
